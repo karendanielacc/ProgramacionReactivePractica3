@@ -1,0 +1,17 @@
+"Roja ", 5200, "Seco", 292.8
+"Blanca", 9800, "Vacio", 292.8
+"Blanca", 6000, "Seco", 292.8
+"Vacuno ", 9200, "Seco", 95.3
+"Ave", 10000, "Vacio", 292.8
+"Ave", 3000, "Seco", 292.8
+"Conejo", 1300.2, "Seco", 180.7
+"Conejo", 5000, "Seco", 170.7
+"Conejo", 900.8, "Vacio", 170.7
+"Conejo", 5000, "Vacio", 180.7
+"Cerdo", 6500, "Vacio", 180.7
+"Cerdo", 6500, "Seco", 180.7
+"Cerdo", 2300, "Seco", 170.7
+"Oveja", 249, "Vacio", 95.3
+"Oveja", 249, "Seco", 95.3
+"Oveja", 120, "Seco", 95.3
+"Cabra", 50, "Vacio", 95.3
